@@ -119,7 +119,7 @@ const seedDatabase = async () => {
     await manager.addRole(managerRole);
     
     const hr = await User.create({
-      username: 'hr',
+      username: 'hruser',
       email: 'hr@rbac.com',
       password: 'HR@123',
       fullName: 'Sarah HR',
@@ -148,7 +148,7 @@ const seedDatabase = async () => {
     console.log('  Username: manager');
     console.log('  Password: Manager@123');
     console.log('\nHR:');
-    console.log('  Username: hr');
+    console.log('  Username: hruser');
     console.log('  Password: HR@123');
     console.log('\nEmployee:');
     console.log('  Username: employee');
