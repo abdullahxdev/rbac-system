@@ -1,6 +1,7 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
 import { body, validationResult } from 'express-validator';
+import { Op } from 'sequelize';
 import { User, Role, Permission } from '../models/index.js';
 import { authenticate } from '../middleware/auth.js';
 import { logAccess } from '../middleware/auditLogger.js';
