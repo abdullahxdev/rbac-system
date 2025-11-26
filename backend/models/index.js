@@ -1,5 +1,5 @@
 import { sequelize } from '../config/database.js';
-import User from './User.js';
+import User from './user.js';
 import Role from './Role.js';
 import Permission from './Permission.js';
 import Resource from './Resource.js';
