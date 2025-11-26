@@ -1,0 +1,5 @@
+{"level":"info","message":"GET /","service":"rbac-system","timestamp":"2025-11-27 02:05:10"}
+{"level":"info","message":"GET /favicon.ico","service":"rbac-system","timestamp":"2025-11-27 02:05:10"}
+{"level":"info","message":"GET /api/health","service":"rbac-system","timestamp":"2025-11-27 02:17:00"}
+{"level":"info","message":"GET /api/auth/login","service":"rbac-system","timestamp":"2025-11-27 02:18:30"}
+{"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-27 02:19:41"}
