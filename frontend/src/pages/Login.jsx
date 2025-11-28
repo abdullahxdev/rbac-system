@@ -120,7 +120,7 @@ export default function Login() {
 
           {/* Footer */}
           <p className="mt-6 text-center text-sm text-gray-400">
-            Information Security Project © 2024
+            Information Security Project © 2025
           </p>
         </div>
       </div>
