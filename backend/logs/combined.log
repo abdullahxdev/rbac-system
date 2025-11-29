@@ -172,3 +172,17 @@
 {"level":"info","message":"GET /api/permissions","service":"rbac-system","timestamp":"2025-11-28 22:57:25"}
 {"level":"info","message":"GET /api/audit/stats","service":"rbac-system","timestamp":"2025-11-28 22:57:25"}
 {"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-28 22:57:25"}
+{"level":"info","message":"POST /api/auth/login","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/roles","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/permissions","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/audit/stats","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/permissions","service":"rbac-system","timestamp":"2025-11-29 14:40:39"}
+{"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-29 14:40:40"}
+{"level":"info","message":"GET /api/roles","service":"rbac-system","timestamp":"2025-11-29 14:40:40"}
+{"level":"info","message":"GET /api/audit/stats","service":"rbac-system","timestamp":"2025-11-29 14:40:40"}
+{"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-29 14:40:44"}
+{"level":"info","message":"GET /api/roles","service":"rbac-system","timestamp":"2025-11-29 14:40:44"}
+{"level":"info","message":"GET /api/users","service":"rbac-system","timestamp":"2025-11-29 14:40:44"}
+{"level":"info","message":"GET /api/roles","service":"rbac-system","timestamp":"2025-11-29 14:40:44"}
+{"level":"info","message":"POST /api/auth/logout","service":"rbac-system","timestamp":"2025-11-29 14:40:48"}
