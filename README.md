@@ -644,6 +644,15 @@ This project is submitted as part of the Information Security course requirement
 
 ---
 
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [@abdullahxdev](https://github.com/abdullahxdev)
+- LinkedIn: [Muhammad Abdullah](https://linkedin.com/in/mabdullahxdev)
+- Email: abdullahisdev@gmail.com
+
+---
+
 ## 🙏 Acknowledgments
 
 - **Sir SaifUllah Ijaz** - Course Instructor
