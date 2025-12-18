@@ -1,7 +1,5 @@
 # 🔐 RBAC System - Role-Based Access Control
 
-**Information Security Course Project**
-
 A full-stack web-based Role-Based Access Control (RBAC) system demonstrating enterprise-grade security principles including authentication, authorization, audit logging, and permission management.
 
 <img width="1919" height="992" alt="Screenshot 2025-12-19 005622" src="https://github.com/user-attachments/assets/c0d9c534-a288-4df9-8014-0288b85614e5" />
