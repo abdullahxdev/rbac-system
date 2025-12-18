@@ -11,6 +11,9 @@ A full-stack web-based Role-Based Access Control (RBAC) system demonstrating ent
 <img width="1914" height="991" alt="Screenshot 2025-12-19 005646" src="https://github.com/user-attachments/assets/fefe292c-97cb-46b5-ab5e-c67ca501f0a3" />
 
 
+<img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/772324cc-6f0c-4056-a87e-259c00bfd121" />
+
+
 <img width="1911" height="990" alt="Screenshot 2025-12-19 005658" src="https://github.com/user-attachments/assets/96c7e06d-0b63-49c0-bfbd-d0460b44827c" />
 
 
