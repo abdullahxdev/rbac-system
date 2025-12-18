@@ -4,6 +4,18 @@
 
 A full-stack web-based Role-Based Access Control (RBAC) system demonstrating enterprise-grade security principles including authentication, authorization, audit logging, and permission management.
 
+<img width="1919" height="992" alt="Screenshot 2025-12-19 005622" src="https://github.com/user-attachments/assets/c0d9c534-a288-4df9-8014-0288b85614e5" />
+
+
+<img width="1910" height="990" alt="Screenshot 2025-12-19 005635" src="https://github.com/user-attachments/assets/7118288c-712f-4830-85eb-18d65794731a" />
+
+
+<img width="1914" height="991" alt="Screenshot 2025-12-19 005646" src="https://github.com/user-attachments/assets/fefe292c-97cb-46b5-ab5e-c67ca501f0a3" />
+
+
+<img width="1911" height="990" alt="Screenshot 2025-12-19 005658" src="https://github.com/user-attachments/assets/96c7e06d-0b63-49c0-bfbd-d0460b44827c" />
+
+
 ---
 
 ## 🎯 Project Objectives
